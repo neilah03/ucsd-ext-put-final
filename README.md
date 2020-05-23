@@ -1,2 +1,11 @@
 # ucsd-ext-put-final
-Git repo for final project
+
+This is the final assignment for UCSD Extension Python Unit Testing
+
+Key Skills Demonstrated include:
+
+* doctest
+* unittest
+* pytest
+* Github
+* Travis-CI
