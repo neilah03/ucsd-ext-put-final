@@ -1,16 +1,16 @@
 # counter.py
 
 def inc(x):
-  """
-  Increments the value of x
+    """
+    Increments the value of x
   
-  >>> inc(4)
-  5
+    >>> inc(4)
+    5
   
-  """
-  return x + 1
+    """
+    return x + 1
   
-  def dec(x):
+def dec(x):
     """
     Decrements the value of x
     
